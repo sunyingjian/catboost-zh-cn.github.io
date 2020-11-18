@@ -1,4 +1,4 @@
-# <center>XGBoost 中文文档</center>
+# <center>CatBoost 中文文档</center>
 
 ![](docs/img/logo.png)
 
