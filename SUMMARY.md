@@ -1,6 +1,7 @@
 # Summary
 
 +   [Introduction](README.md)
++   [安装CatBoost](docs/安装.md)
 +   [快速开始](docs/1.md)
 +   [CatBoost](docs/2.md)
     +   [Boosted Trees 介绍](docs/3.md)
