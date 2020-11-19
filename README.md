@@ -22,31 +22,6 @@ CatBoost is a machine learning algorithm that uses gradient boosting on decision
 
 * 欢迎各位在本github项目上发起issue
 
-## 安装
-
-### Docker
-
-```
-docker pull apachecn0/xgboost-doc-zh
-docker run -tid -p <port>:80 apachecn0/xgboost-doc-zh
-# 访问 http://localhost:{port} 查看文档
-```
-
-### PYPI
-
-```
-pip install xgboost-doc-zh
-xgboost-doc-zh <port>
-# 访问 http://localhost:{port} 查看文档
-```
-
-### NPM
-
-```
-npm install -g xgboost-doc-zh
-xgboost-doc-zh <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ## 鸣谢
 
