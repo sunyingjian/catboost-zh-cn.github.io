@@ -1,8 +1,8 @@
 # Summary
 
 +   [Introduction](README.md)
-+   [开始使用 XGBoost](docs/1.md)
-+   [XGBoost 教程](docs/2.md)
++   [快速开始](docs/1.md)
++   [CatBoost](docs/2.md)
     +   [Boosted Trees 介绍](docs/3.md)
     +   [AWS 上的分布式 XGBoost YARN](docs/4.md)
     +   [DART booster](docs/5.md)
